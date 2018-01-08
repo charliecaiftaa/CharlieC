@@ -1,0 +1,32 @@
+
+
+#Logo
+{
+    height: 20px;
+    white-space: nowrap;
+    width: 100%;
+    display: inline-table;
+}
+
+.logo-image
+{
+    vertical-align: middle;
+    padding: 5px;
+    display: table-cell;
+}
+
+.logo-image img
+{
+    max-width: 100%;
+    min-width: 10%;
+}
+
+#NAV
+{
+    height: 100px;
+    background-color: white;
+    white-space: nowrap;
+    width: 100%;
+    display: table;
+}
+
