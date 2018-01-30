@@ -144,8 +144,7 @@ $(document).ready(function(){
     $(document).on("click","#KEA_Wind_Turbine", function(){
 
         //Put the name of the layer in the "find" function
-        Layer_Number = Find("KEA_Turbine");
-
+        Layer_Number = Find("KEA_Turbine");
 
 
 
